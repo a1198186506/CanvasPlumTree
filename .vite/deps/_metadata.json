@@ -1,0 +1,13 @@
+{
+  "hash": "2945b4a8",
+  "browserHash": "845dcd6f",
+  "optimized": {
+    "jinrishici": {
+      "src": "../../node_modules/jinrishici/jinrishici.js",
+      "file": "jinrishici.js",
+      "fileHash": "4ab2fd79",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
